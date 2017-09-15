@@ -3,8 +3,10 @@
 ## 简介  
 
 > 作者：[draachen](www.github.com/draachen)  
-目的：记录并整理自学[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)的过程  
-时间：9月3日~  
+>
+> 目的：记录并整理自学[Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)的过程 
+>
+> 时间：9月3日~  
 
 ## 目录  
 
