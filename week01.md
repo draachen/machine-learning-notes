@@ -81,6 +81,8 @@
 
 
 
+
+
 ![week1_h(x)_and_J(theta1)](resource\week1_h(x)_and_J(theta1).png)
 
        	2.  w/ $\theta_0, \theta_1$
@@ -179,6 +181,7 @@ $$
 
     ​	$B$ = $A^T$		means $B_{ij}=A_{ji}$
 
+    ​
 
 
 ### Changelog
